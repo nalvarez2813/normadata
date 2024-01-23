@@ -1,8 +1,8 @@
 ## Data Analytics Project Portfolio
 
-### Introduction
+### About Me
 
-Use this template to create a portfolio quicky. 
+Enthusiastic professional with an eagerness to enter the dynamic field of data. Adept at creating engaging experiences and utilizing technology to optimize outcomes. Proven track record of hands-on work and individualized support, with a focus on improving processes. Skilled in communication, mentoring, and fostering positive relationships. Eager to embark on a career as an analyst, applying analytical skills to contribute effectively in the world of data. Ready to bring a unique blend of enthusiasm and a commitment to learning to new challenges beyond my current field.
 
 ### Installation
 
